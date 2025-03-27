@@ -7,5 +7,5 @@ Code repo for my personal game project.
 
 
 ## Technical Highlight
-- Real time combat system with switch able skills (arrows)
-- Enemy NPC behavior developed with finiate state machine pattern
+- Real-time combat system
+- Enemy NPC behavior developed with finite state machine pattern
