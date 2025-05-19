@@ -1,4 +1,4 @@
-# 3DRPG_code
+# 3D Action game
 
 Code repo for my personal game project.
 
